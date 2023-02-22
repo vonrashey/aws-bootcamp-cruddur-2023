@@ -6,7 +6,7 @@ After watching all **Week 00** videos, I worked on the following as part of my h
 
 This is a general design or sketch of the Cruddur app that I will be building during the bootcamp. Its a basic idea of the application, its input, processes and output requirements. 
 
-![This is an image](/assets/LogicalDiagram.png)
+![This is an image](/../main/assets/LogicalDiagram.png)
 
 **2. Conceptual Design**
 
