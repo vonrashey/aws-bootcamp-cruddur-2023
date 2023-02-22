@@ -2,7 +2,7 @@
 
 After watching **Week 00** videos, I worked on the following as part of my homework:
 
-1. Napkin Design 
+###1. Napkin Design ###
 This is a general design or sketch of the Cruddur app that I will be building during the bootcamp. Its a basic idea of the application, its input, processes and output requirements. 
 
 ![This is an image](https://github.com/vonrashey/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/LogicalDiagram.png)
