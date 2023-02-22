@@ -5,7 +5,7 @@ After watching **Week 00** videos, I worked on the following as part of my homew
 1. Napkin Design 
 This is a general design or sketch of the Cruddur app that I will be building during the bootcamp. Its a basic idea of the application, its input, processes and output requirements. 
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image](https://github.com/vonrashey/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/CruddurConceptual%20Diagram.png)
 
 2. Conceptual Design
 This is an improved version of the napkin design showing the requirements of the application
