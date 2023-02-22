@@ -61,4 +61,6 @@ tasks:
       cd $THEIA_WORKSPACE_ROOT
 ```
 
+*Admin user, IAM user were already created. Sample user generated credentials are shown below*
 
+![User Credentials](https://github.com/vonrashey/aws-bootcamp-cruddur-2023/blob/main/_docs/assets/gitpod%20user.png)
